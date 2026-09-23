@@ -7,8 +7,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FFA500,50:00FF00,75:0000FF,100:8A2BE2&height=200&section=header&text=Nishant%20Gangwar&fontSize=50&fontColor=fff&animation=fadeIn)
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://nishantgangwar652.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nishant-gangwar-2a195932a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:gangwarnishant793@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=nishantgangwar652&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS">
 </p>
 
@@ -115,11 +116,8 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/your-handle"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nishant-gangwar-2a195932a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:gangwarnishant793@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,25:FFA500,50:00FF00,75:0000FF,100:8A2BE2&height=100&section=footer)
-
-
