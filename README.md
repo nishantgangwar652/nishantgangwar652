@@ -90,22 +90,20 @@ looking_for: Internship / entry-level Full Stack Developer roles
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Make-your-Trip
-Full-stack property rental platform inspired by Airbnb — listings, search, and user accounts.
+### 🎓 SBA Smart Classes
+MERN-based learning platform to organize student batches and online courses for Class 9–12, with course management for teachers and course access for students.
 
 `React` · `Node.js` · `Express` · `MongoDB`
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantgangwar652/Make-your-Trip)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 Hotel Booking Project
-Hotel booking web application with a clean, responsive booking flow UI.
+### 🧳 Make Your Trip
+Travel planning website to explore destinations and organize trip-related information, with interactive, responsive pages for a smooth browsing experience.
 
 `HTML` · `CSS` · `JavaScript`
 
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantgangwar652/Hotel-Booking-Project)
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishantgangwar652/Make-your-Trip)
 
 </td>
 </tr>
